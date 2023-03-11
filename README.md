@@ -1,16 +1,15 @@
-### Hi there 👋 i am Roy
+Hello word, I´m Roy, here you have more information about me:
 
-<!--
-**roymargraterol/roymargraterol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 I’m currently working on SMID, a digital marketing agency.
 
-Here are some ideas to get you started:
+🏁 My goal is to identify insights, to make goods decisions based in data!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤ I love to create dashboards.
+
+📚 I’m learning Data Processing with Python and SQL.
+
+🎓 Bachelor's Degree Actuarial Science
+
+Connect with me:
+
+📫 Reach me at: roymarr17@gmail.com / linkedin.com/in/roymar-graterol-647052a3
